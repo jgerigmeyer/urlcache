@@ -7,8 +7,7 @@
   "repository": "github:stevenvachon/urlcache",
   "browser": "index-es5.js",
   "dependencies": {
-    "deep-freeze-node": "^1.1.3",
-    "minurl": "github:stevenvachon/minurl"
+    "minurl": "github:jgerigmeyer/minurl"
   },
   "devDependencies": {
     "@babel/cli": "^7.13.0",
